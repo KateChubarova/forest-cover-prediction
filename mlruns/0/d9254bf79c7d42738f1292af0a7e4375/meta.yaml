@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/k.chubarava/Desktop/forest-cover-prediction/mlruns/0/d9254bf79c7d42738f1292af0a7e4375/artifacts
+end_time: 1651919395692
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: d9254bf79c7d42738f1292af0a7e4375
+run_uuid: d9254bf79c7d42738f1292af0a7e4375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1651919393297
+status: 4
+tags: []
+user_id: k.chubarava
