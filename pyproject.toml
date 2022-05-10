@@ -5,7 +5,8 @@ description = "Final(forest cover prediction) project for RS School Machine Lear
 authors = ["kate.chubarova <katechubarova@gmail.com>"]
 
 [tool.poetry.scripts]
-train = "forest_cover_ml.train:train"
+train_logistic = "forest_cover_ml.logistic:train"
+train_ridge = "forest_cover_ml.ridge:train"
 
 [tool.poetry.dependencies]
 python = "^3.9"

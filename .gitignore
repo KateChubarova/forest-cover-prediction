@@ -155,3 +155,4 @@ ipython_config.py
 
 .idea/*
 data/*
+mlruns/*
